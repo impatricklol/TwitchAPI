@@ -1,5 +1,12 @@
 <?php
-error_reporting(e_all);
+//error_reporting(e_all);
+/*
+ *  Developed by Patrick Parker
+ *  follow me on twitter @ twitter.com/ipaddey
+ *  check out my github @ github.com/impatricklol
+ *
+ *  Any suggestions or issues or requests? feel free to contact me
+ */
 
 class twitchAPI{
 
