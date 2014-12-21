@@ -18,5 +18,7 @@ include 'twitchAPI.php';
 $stream_1 = new twitchAPI('reckful');
 $stream_2 = new twitchAPI('sodapoppin');
 $stream_1->getData('display_name');
-$stream_2h->getData('display_name');
+$stream_2->getData('display_name');
 ```
+NOTE:
+No data will output if stream is offline, there is nothing wrong with the PHP code running on PHP V 5.6.2
