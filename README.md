@@ -5,11 +5,9 @@ Simple PHP Class for the Twitch.tv API
 
 ```javascript
 {
-    "name": "impatricklol/twitchapi",
-    "description": "A php API for Twitch.TV",
-    "require": {
-        "php": ">=5.3.0"
-    }
+  "require": {
+    "impatricklol/twitchapi": "dev-master"
+  }
 }
 ```
 
