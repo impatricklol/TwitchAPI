@@ -1,25 +1,7 @@
 {
-  "name": "impatricklol/twitchapi",
-  "description": "Twitch.TV PHP API",
-  "keywords": [
-    "Twitch.TV",
-    "PHP",
-    "api"
-  ],
-  "homepage": "twitter.com/ipaddey",
-  "license": "OPEN",
-  "authors": [
-    {
-      "name": "Patrick Parker",
+    "name": "impatricklol/twitchapi",
+    "description": "A php API for Twitch.TV",
+    "require": {
+        "php": ">=5.3.0"
     }
-  ],
-  "require": {
-    "php": ">=5.2",
-    "ext-curl": "*",
-    "ext-json": "*",
-    "ext-mbstring": "*"
-  },
-  "autoload": {
-    "classmap": ["lib/twitchtv/"]
-  }
 }
