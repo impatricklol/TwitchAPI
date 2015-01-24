@@ -3,8 +3,17 @@ TwitchAPI
 
 Simple PHP Class for the Twitch.tv API
 
-How to use:
+```javascript
+{
+    "name": "impatricklol/twitchapi",
+    "description": "A php API for Twitch.TV",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
+```
 
+How to use:
 replace 'reckful' with the stream name you want data from.
 ```php
 <?php
